@@ -1,0 +1,49 @@
+.App h1 {
+  text-align: center;
+  color: rgb(38, 139, 255);
+}
+.from 
+{
+  width: 50%;
+  margin: auto;
+  border: 1px solid gray;
+  border-radius: 10px;
+  display: flex;
+}
+table {
+  padding: 0px 20px;
+  text-align: center;
+  background-color: rgb(236, 250, 255);
+}
+table input{
+  font-size: 18px;
+}
+hr
+{
+  width: 2px;
+  /* height: 100%; */
+  background-color: black;
+}
+.btn
+{
+  font-size: 20px;
+  padding: 5px 10px;
+  margin: 10px ;
+  border: none;
+  border-radius: 10px;
+  background-color: lightblue;
+}
+.result{
+  justify-content: center;
+  display: flex;
+}
+li 
+{
+  list-style-type: none;
+}
+li input {
+  padding: 4px 5px;
+  margin: 5px 10px 5px 0px;
+  font-size: 18px;
+  border: none;
+}
